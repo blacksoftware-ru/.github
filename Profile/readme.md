@@ -1,4 +1,4 @@
-# Blacksoftware
+# Black software
 
 Добро пожаловать в организацию **Blacksoftware**!
 
