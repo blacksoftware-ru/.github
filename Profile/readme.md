@@ -9,5 +9,5 @@
 
 ## Контакты
 
-🌐 http://blacksoftware.ru
-📧 info@blacksoftware.ru 
+- 🌐 http://blacksoftware.ru
+- 📧 info@blacksoftware.ru 
